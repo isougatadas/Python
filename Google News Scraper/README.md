@@ -1,4 +1,4 @@
-### Google News Scrapper
+### Google News Scraper
 
 A python Automation script that helps to scrape the google news articles. The key feature of this script is that user can able to scrape the as many number of articles by giving the number of articles count. This script will generate the excel file of all the scraped articles with links with their respective titles.
 
